@@ -7,9 +7,12 @@ L'applicazione mostra tutti i principali passaggi, in modo che possiate verifica
 
 **Esempio**
 <p style="text-align:center">
-    <img src="https://github.com/Pater999/UNITN-lingProg-Mazzo-Carte/blob/v1.0/resources/img/ProgrammaInziale.PNG" alt="ProgrammaIniziale.png" />
+    <img src="https://github.com/Pater999/UNITN-FMI-Risolutore-Sistema/blob/master/img/EsempioSoluzione.PNG" alt="EsempioSoluzione.png" />
 </p>
 
 
+### ATTENZIONE
+
 :warning: **Gli altri 2 esercizi non sono stati implementati per mancanza di voglia ma si potrebbero realizzare facilmente**
+
 :warning: **Le gestioni non sono state gestite quindi eventuali input errati potrebbero compromettere il funzionamento del programma**
